@@ -13,6 +13,7 @@ public class Chemistry {
 	
 	public void overcome() {
 		System.out.println("soon");
+		System.out.println("in home");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
